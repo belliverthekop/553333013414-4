@@ -5,9 +5,9 @@ public class Bell {
 	private String position;
 	private String friend[];
 	public Bell() {
-		name = "Bell";
-		position = "RB";
-		friend = new String[]{"Soarez","Sturridge","Gerrard"};
+		name = "B.Rodger";
+		position = "manager";
+		friend = new String[]{"Soarez","Sturridge","Gerrard","stering","minolet","agger","skrtel","coutinho","hendesson","flanagan","jhonson","B.Rodger"};
 	}
 	public Bell(int a) {
 		
